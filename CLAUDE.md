@@ -6,7 +6,7 @@ act as the two "eyes" of a Halloween pumpkin and stay in sync over ESP-NOW.
 
 ## Files
 
-| File on the board | Source name | Purpose |
+| File on the board | Purpose |
 |---|---|---|
 | `code.py` | Plays every GIF in `/gifs`, in sync with the other board. |
 | `espnow_test_display.py` | Radio diagnostic. Prints link status on the LED panel. Swap in for `code.py` only while troubleshooting, then restore the real one. |
