@@ -48,7 +48,7 @@ DEBUG = True             # print radio messages to the serial console
 
 PANEL_WIDTH = 128
 PANEL_HEIGHT = 64
-BIT_DEPTH = 3
+BIT_DEPTH = 2
 
 # Visible area of the panel (parts of it may be hidden by a door frame, bezel, etc.).
 # The usable area is a rectangle centered on the panel. Find the numbers with calibrate.py.
